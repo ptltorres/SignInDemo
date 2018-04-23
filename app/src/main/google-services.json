@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "172543994796",
+    "firebase_url": "https://signindemo-b6f46.firebaseio.com",
+    "project_id": "signindemo-b6f46",
+    "storage_bucket": "signindemo-b6f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172543994796:android:663ede3717d55bfa",
+        "android_client_info": {
+          "package_name": "com.example.pedrotorres.signindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172543994796-8r84cnf8dcj5q2clj3co27q2vd8ommul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pedrotorres.signindemo",
+            "certificate_hash": "cfc55aaaa8dacbaa5462669df4833c6f1bad654f"
+          }
+        },
+        {
+          "client_id": "172543994796-0g091ka4392iljojl5pcklfe9bgq82gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQ06fxoAIIBk46mJ0CvZWRmtBNDrnDqQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172543994796-0g091ka4392iljojl5pcklfe9bgq82gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
